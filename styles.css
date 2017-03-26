@@ -1,7 +1,11 @@
-﻿body {
-    background-color: black;
+﻿html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
 }
 
-h1 {
-    color: white;
+#container {
+    width: 100%;
+    height: 100%;    
 }
+
