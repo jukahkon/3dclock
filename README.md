@@ -1,9 +1,9 @@
 3dclock 
 =============
 
-Interactive 3D-model of the analog clock that runs in a web browser.
+Interactive 3D-model of the analog clock that runs in the web browser.
 
-Check it out: [3dclock.azurewebsites.net](http://3dclock.azurewebsites.net/)
+Online version: [3dclock.azurewebsites.net](http://3dclock.azurewebsites.net/)
 
 User can move camera using mouse:
  - left mouse button orbits
