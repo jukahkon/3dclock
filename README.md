@@ -3,7 +3,7 @@
 
 Interactive 3D-model of the analog clock that runs in a web browser.
 
-[Online version is here](http://3dclock.azurewebsites.net/)
+Check it out: [3dclock.azurewebsites.net](http://3dclock.azurewebsites.net/)
 
 User can move camera using mouse:
  - left mouse button orbits
@@ -21,7 +21,7 @@ Using the provided menu, user can:
 
 ### Technology Stack
 
- - [three.js framework](https://threejs.org/) for 3D rendering
  - [Autodesk Inventor](http://www.autodesk.com/products/inventor/overview) for 3D modeling
+ - [three.js framework](https://threejs.org/) for 3D rendering
  - [GIMP](https://www.gimp.org/) for textures
 
